@@ -15,6 +15,5 @@ def pick_winner(customers):
 
 customers = organize_customer_data("customers.txt")
 
-print customers
 
 pick_winner(customers)
